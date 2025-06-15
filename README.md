@@ -27,7 +27,6 @@ I enjoy exploring ideas, building tiny tools, and learning how to make the web m
 ### 🚧 Work in Progress
 
 Right now, I’m working on:
-- A text-based golf gambling game in Python 🎯
 - My first interactive JavaScript mini-projects ⚡
 
 ---
