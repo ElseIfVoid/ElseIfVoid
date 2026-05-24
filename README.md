@@ -1,6 +1,10 @@
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElseIfVoid)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElseIfVoid/ElseIfVoid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElseIfVoid/ElseIfVoid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElseIfVoid/ElseIfVoid/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=CODING+FOR+FUN+UNTIL+I+FIND+NEW+SHI)](https://git.io/typing-svg)
 
