@@ -1,8 +1,9 @@
-![matrix](https://www.pinterest.com/pin/via-giphy--308355905734688955/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=CODING+FOR+FUN+UNTIL+I+FIND+NEW+SHI)](https://git.io/typing-svg)
 
 
 <div align="center">
+
 ### MY STACK ( I CAN USE THESE FOR SURE !!! )
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
