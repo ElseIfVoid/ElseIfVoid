@@ -1,9 +1,8 @@
-
+![matrix](![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white))
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=CODING+FOR+FUN+UNTIL+I+FIND+NEW+SHI)](https://git.io/typing-svg)
-<div align="center">
 
 ### MY STACK ( I CAN USE THESE FOR SURE !!! )
-
+<div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -20,6 +19,6 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-</div>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1494680941862326312?theme=purple&animated=true&showDisplayName=true&borderRadius=30px)](https://discord.com/users/1494680941862326312)
+</div>
