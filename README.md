@@ -1,8 +1,9 @@
-![matrix](https://i.pinimg.com/originals/11/c2/38/11c238c51c94fbf822ae0fc6acc88c58.gif)
+![matrix](https://www.pinterest.com/pin/via-giphy--308355905734688955/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=CODING+FOR+FUN+UNTIL+I+FIND+NEW+SHI)](https://git.io/typing-svg)
 
-### MY STACK ( I CAN USE THESE FOR SURE !!! )
+
 <div align="center">
+### MY STACK ( I CAN USE THESE FOR SURE !!! )
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
