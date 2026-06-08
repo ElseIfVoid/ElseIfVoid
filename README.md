@@ -18,6 +18,4 @@
 
 <br><br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1494680941862326312?theme=purple&animated=true&showDisplayName=true&borderRadius=30px)](https://discord.com/users/1494680941862326312)
-
 </div>
