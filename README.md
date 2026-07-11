@@ -1,10 +1,3 @@
-<div align="center">
-
-<h4>
-<i>"if your ram usage is way lesser than half of your total ram, then you know what community you are in"</i>
-</h4>
-
-<b>— Jade / ElseIfVoid</b>
 
 <br>
 
