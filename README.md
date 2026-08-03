@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://discord.com/users/816307490026946571">
-  <img src="https://lanyard.cnrad.dev/api/816307490026946571?theme=dark&bg=1a1b27&animated=true&hideDiscrim=true&borderRadius=20px&showDisplayName=true&idleMessage=Probably%20coding..." />
+<img src="https://lanyard.cnrad.dev/api/816307490026946571?theme=dark&bg=1a1b27&animated=true&hideDiscrim=true&borderRadius=20px&showDisplayName=true&idleMessage=Probably%20coding..." />
 </a>
 
 <br><br>
@@ -18,9 +18,9 @@
 
 <br><br>
 
-<img src="./assets/wave1.gif" width="210"/>
-<img src="./assets/wave2.gif" width="210"/>
-<img src="./assets/wave3.gif" width="210"/>
+<img src="./assets/wave1.gif" width="200"/>
+<img src="./assets/wave2.gif" width="200"/>
+<img src="./assets/wave3.gif" width="200"/>
 
 <br><br>
 
@@ -30,26 +30,18 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ElseIfVoid&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElseIfVoid&theme=tokyo-night&hide_border=true"/>
-
-<br><br>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ElseIfVoid&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElseIfVoid/ElseIfVoid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElseIfVoid/ElseIfVoid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ElseIfVoid/ElseIfVoid/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <br><br>
 
 ## 🚀 Featured Project
 
 <a href="https://github.com/ElseIfVoid/yt-music-rpc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElseIfVoid&repo=yt-music-rpc&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ElseIfVoid&repo=yt-music-rpc&theme=tokyonight&hide_border=true"/>
 </a>
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
