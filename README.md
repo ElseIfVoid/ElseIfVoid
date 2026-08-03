@@ -4,25 +4,27 @@
 
 ![](https://komarev.com/ghpvc/?username=ElseIfVoid&color=blueviolet&style=flat-square)
 
-## Stack
-
-[![My Skills](https://skillicons.dev/icons?i=py,c,js,html,css,discord,mongodb,sqlite,postgres,docker,git,github)](https://skillicons.dev)
-
 <br>
 
-<img src="https://nekos.best/api/v2/wave/0f98ba3e-5158-40b7-8aec-c465dd7c7c0e.gif" width="220">
-
-<br>
-
-<img src="https://nekos.best/api/v2/wave/672c7e59-2f57-4b4a-b088-edffb504164d.gif" width="220">
-
-<br>
-
-<img src="https://nekos.best/api/v2/wave/2e02d3ee-db09-4d1b-a7c2-05a4da7ed78c.gif" width="220">
+<a href="https://discord.com/users/816307490026946571">
+  <img src="https://lanyard.cnrad.dev/api/816307490026946571?theme=dark&bg=1a1b27&animated=true&hideDiscrim=true&borderRadius=20px&showDisplayName=true&idleMessage=Probably%20coding..." />
+</a>
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ElseIfVoid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+## ⚒️ Stack
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,js,ts,html,css,discord,mongodb,sqlite,postgres,docker,git,github,vscode)](https://skillicons.dev)
+
+<br><br>
+
+<img src="./assets/wave1.gif" width="210"/>
+<img src="./assets/wave2.gif" width="210"/>
+<img src="./assets/wave3.gif" width="210"/>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ElseIfVoid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElseIfVoid&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -32,18 +34,22 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElseIfVoid&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElseIfVoid&theme=tokyo-night&hide_border=true"/>
 
 <br><br>
 
-## Featured Repositories
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ElseIfVoid&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-<a href="https://github.com/ElseIfVoid/REPO_NAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ElseIfVoid&repo=REPO_NAME&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+## 🚀 Featured Project
+
+<a href="https://github.com/ElseIfVoid/yt-music-rpc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElseIfVoid&repo=yt-music-rpc&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/ElseIfVoid/SECOND_REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ElseIfVoid&repo=SECOND_REPO&theme=tokyonight&hide_border=true"/>
-</a>
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
